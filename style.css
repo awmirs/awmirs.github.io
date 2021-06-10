@@ -40,12 +40,6 @@ svg {
       z-index: 11;
   }
 
-  .btn_works {
-      left: 100px;
-      right: unset;
-      text-decoration: none;
-  }
-
   .btn:hover {
       background: #ffffff;
       color: #1B1734;
